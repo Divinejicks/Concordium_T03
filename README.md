@@ -4,6 +4,9 @@ Donation dApp
 # Concordium wallet address
 3o6Vx8zqtZU7SCiX6T4pfEvqeuVa6DCD9jT9G8Xg4pXECLWy9s
 
+# How to run
+It is a react app, clone the app and install all packaged with "npm install" and run "npm start"
+
 # Explanation of the donation app
 Donation app is an app that allows users from particular locations to donate to the contract. 
 
@@ -31,4 +34,6 @@ Hence clicking on the "Get results" will return a 0 balance
 Clicking on "Open donation" will set the state of donation to open
 
 # Preview
+
+![donation demo](https://user-images.githubusercontent.com/16731719/217622151-14b5e6fe-a2b5-4653-b39e-9cba7b5046d2.gif)
 
