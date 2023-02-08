@@ -35,5 +35,6 @@ Clicking on "Open donation" will set the state of donation to open
 
 # Preview
 
-![donation demo](https://user-images.githubusercontent.com/16731719/217622151-14b5e6fe-a2b5-4653-b39e-9cba7b5046d2.gif)
+![donation demo](https://user-images.githubusercontent.com/16731719/217625349-eeae67a9-d6f9-48e3-bfdd-6ff660339946.gif)
+
 
