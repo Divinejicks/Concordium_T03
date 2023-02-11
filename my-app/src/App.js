@@ -8,7 +8,7 @@ function App() {
   const [walletAddress, setWalletAddress] = useState("");
   const [walletConnected, setWalletConnected] = useState(false)
   const [concordiumClient, setConcordiumClient] = useState(null)
-  const [endTime, setEndTime] = useState(null)
+  const [endTime, setEndTime] = useState(new Date(Date.now))
   const [countries, setCountries] = useState("CM, IT, DK, GM")
   const [donationCreated, setDonationCreated] = useState(false)
   const [contractIndex, setContractIndex] = useState(2830)
